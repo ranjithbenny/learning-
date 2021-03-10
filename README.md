@@ -7,3 +7,5 @@ hello
 Trying out new things like merging
 
 Now trying the other way around, that is main branch to new branch.
+
+Now trying to do pull
